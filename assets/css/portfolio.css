@@ -62,7 +62,7 @@ h2 {
     flex-wrap: wrap;
 }
 .top-left {
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH71ePxMTSJDReoXunuNoP-o93q1XuEBwhUr12YoUgJBI1G_H5NA);
+    background: url(../images/rev_lionel_preacherbot.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -72,7 +72,7 @@ h2 {
     margin-bottom:5%;
 }
 .top-right {
-    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXT0SSYifshd2P5s6N5SyKfyz21DoE4vjed9WFHhngQ2KUPz_9);
+    background: url(../images/roberto.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -83,7 +83,7 @@ h2 {
     margin-bottom:5%;
 }
 .middle-left {
-    background: url(https://oyster.ignimgs.com/mediawiki/apis.ign.com/futurama/9/98/Malfunctioning-eddie.jpg);
+    background: url(../images/malfunctioning_eddie.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -93,7 +93,7 @@ h2 {
     margin-bottom: 5%;
 }
 .middle-right {
-    background: url(https://i.ytimg.com/vi/KBpxbF1lqmI/hqdefault.jpg);
+    background: url(../images/robot_santa.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -104,7 +104,7 @@ h2 {
     margin-left:5%;
 }
 .bottom-left {
-    background: url(https://theinfosphere.org/images/thumb/9/9a/Pikearobot.jpg/225px-Pikearobot.jpg);
+    background: url(../images/pikea_bot.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
